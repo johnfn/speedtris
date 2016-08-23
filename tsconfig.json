@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "outDir": "out",
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "noLib": true,
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "experimentalDecorators": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
